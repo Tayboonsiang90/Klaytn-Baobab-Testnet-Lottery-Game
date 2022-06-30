@@ -130,6 +130,10 @@ export default class App extends React.Component {
 
                 {this.showParticipants()}
 
+                <p>
+                    Get your testnet Klay from the faucet <a href="https://baobab.wallet.klaytn.foundation/faucet">here!</a>
+                </p>
+
                 <form className="mt-5">
                     <div className="form-group">
                         <label htmlFor="exampleInputEmail1">Amount of testnet Klay to enter the lottery: </label>
